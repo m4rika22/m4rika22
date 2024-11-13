@@ -2,6 +2,7 @@ Hi! 👋 I'm Marika
 Welcome to my GitHub page! I'm a third-year IT student at Häme University of Applied Sciences. I'm a former nurse who decided to jump into the world of software development and IT systems. I enjoy exploring the combination of programming, cloud technologies and cybersecurity.
 
 📚 About me
+
 💻 I'm currently studying IT systems with a focus on cloud services and cybersecurity
 
 🎓 I've also acquired certificates, Microsoft Azure Fundamentals (AZ-900) certifications and participated in the Mimmit Codes Hackathon
