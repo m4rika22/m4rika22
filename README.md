@@ -10,7 +10,7 @@ Welcome to my GitHub page! I'm a third-year IT student at Häme University of Ap
 
 🤔 I'm open to any projects or internship opportunities where I can apply my skills and learn more
 
-🌱 Looking for
+🌱 Looking for:
 Internship and thesis are soon relevant. I'm open to a variety of ideas and I'm not afraid of challenges.
 
 Thanks for stopping by! 😊
