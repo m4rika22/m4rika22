@@ -1,4 +1,5 @@
 Hi! 👋 I'm Marika
+
 Welcome to my GitHub page! I'm a third-year IT student at Häme University of Applied Sciences. I'm a former nurse who decided to jump into the world of software development and IT systems. I enjoy exploring the combination of programming, cloud technologies and cybersecurity.
 
 📚 About me
