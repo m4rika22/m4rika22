@@ -1,20 +1,16 @@
 Hi! 👋 I'm Marika
 
-Welcome to my GitHub page! I'm a third-year IT student at Häme University of Applied Sciences. I'm a former nurse who decided to jump into the world of software development and IT systems. I enjoy exploring the combination of programming, cloud technologies and cybersecurity.
+Welcome to my GitHub page! I am an IT student at Häme University of Applied Sciences with a growing interest in cybersecurity and cloud infrastructure. I entered the tech field through a career change and quickly became fascinated by how systems can be broken — safely and ethically.
 
-Check out my introduction page: https://m4rika22.github.io/ImMarika/
-(Currently only in Finnish, sorry)
+For my thesis, I set out to build a simple virtual machine for beginners to hack. The project got a bit out of hand — and eventually turned into a deep-dive website for penetration testing, based on the PTES standard, built around the simulator. I'm publishing the website here soon — stay tuned!
 
+🔍 Interests:
 
-📚 About me
+- Cybersecurity and ethical hacking
 
-💻 I'm currently studying IT systems with a focus on cloud services and cybersecurity
+- Virtual labs and hands-on learning
 
-🎓 I've also acquired certificates, Microsoft Azure Fundamentals (AZ-900) certifications and participated in the Mimmit Codes Hackathon
+- Cloud technologies
 
-🤔 I'm open to any projects or internship opportunities where I can apply my skills and learn more
+🎯 I'm now nearing the end of my studies — all that's left is the internship, and that search is about to begin.
 
-🌱 Looking for:
-Internship and thesis are soon relevant. I'm open to a variety of ideas and I'm not afraid of challenges.
-
-Thanks for stopping by! 😊
